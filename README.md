@@ -1,329 +1,198 @@
-
-<!-- ===================== HEADER ===================== -->
+<!-- ===================================================== -->
+<!--                     PROFILE HEADER                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=220&section=header&text=Md.%20Jawad%20Uddin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/mdjawaduddin/mdjawaduddin/main/assets/banner.png"
+  width="100%"
+  alt="Md. Jawad Uddin - Full-Stack Web Developer"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%93%9A;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
+  alt="Typing animation"
+/>
 
 <br/><br/>
 
-<a href="https://github.com/naweedjawad102">
-<img src="https://img.shields.io/github/followers/naweedjawad102?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
-</a>
-
-<a href="https://github.com/naweedjawad102?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-38BDF8?style=for-the-badge&labelColor=0f172a"/>
-</a>
-
-</div>
-
----
-
-# 👋 Hi, I'm Md. Jawad Uddin
-
-I'm an **aspiring Full-Stack Web Developer** passionate about creating clean, responsive, and useful web applications.
-
-I'm currently focused on strengthening my fundamentals, building real projects, and gradually progressing toward professional full-stack development.
-
-```text
-💻 Frontend        → Building responsive & interactive interfaces
-⚛️ React           → Creating reusable component-based applications
-▲ Next.js          → Exploring modern full-stack React development
-🎨 Tailwind CSS    → Building clean and responsive UIs
-🟨 JavaScript      → Strengthening programming fundamentals
-🔌 APIs            → Working with real-world data
-🚀 Goal            → Become a professional Full-Stack Developer
-```
-
----
-
-## 🚀 What I'm Currently Doing
-
-* 🌱 Learning **Full-Stack Web Development**
-* ⚛️ Building applications with **React & Next.js**
-* 🎨 Improving my **UI/UX and responsive design** skills
-* 🧩 Practicing reusable components and clean code
-* 🔌 Learning how frontend applications communicate with APIs
-* 🛠️ Building projects to turn knowledge into practical experience
-* 📈 Improving my programming and problem-solving skills
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
-
-</div>
-
-### ⚛️ Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-
-</div>
-
-### 🔧 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
-
-</div>
-
----
-
-# 🔥 Featured Projects
-
-> I focus on building projects that demonstrate what I can actually **build**, not just what technologies I have learned.
-
----
-
-## 🏋️ FitLog — Workout Library
-
-**My current flagship project.**
-
-FitLog is a modern dark-themed workout application designed to help users explore exercises, view workout details, and build a personalized workout plan.
-
-### ✨ Highlights
-
-* 🏋️ Workout library
-* 🔎 Detailed exercise pages
-* 📋 Personal workout planning
-* 🔔 Toast notifications
-* 📊 Workout summary
-* 📱 Responsive interface
-* 🌐 Data fetched from an API
-
-### 🛠️ Built With
-
-`Next.js` `React` `Tailwind CSS` `DaisyUI` `JavaScript` `REST API`
-
-<div align="center">
-
-<a href="https://github.com/naweedjawad102">
-<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
-</a>
-
-</div>
-
----
-
-## 💻 Project #2
-
-### 🚀 Coming Soon
-
-A new project focused on applying my growing knowledge of **React, JavaScript, APIs, and modern UI development**.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge&labelColor=0f172a"/>
-
-</div>
-
----
-
-## 🌐 Project #3
-
-### 🚀 Coming Soon
-
-Another project will be added here as I continue my journey toward becoming a full-stack developer.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Status-Planned-8B5CF6?style=for-the-badge&labelColor=0f172a"/>
-
-</div>
-
----
-
-### 📂 Explore All My Projects
-
-<div align="center">
-
-<a href="https://github.com/naweedjawad102?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
-
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naweedjawad102&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naweedjawad102&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naweedjawad102&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 My Development Journey
-
-```text
-        HTML & CSS
-             │
-             ▼
-        JavaScript
-             │
-             ▼
-           React
-             │
-             ▼
-          Next.js
-             │
-             ▼
-     Backend Development
-             │
-             ▼
-      Databases & APIs
-             │
-             ▼
-     Full-Stack Applications
-             │
-             ▼
-     🚀 Professional Developer
-```
-
-### My Learning Cycle
-
-<div align="center">
-
-**📚 Learn** → **🧪 Practice** → **🔨 Build** → **🐛 Debug** → **📈 Improve**
-
-</div>
-
----
-
-# 🧠 Development Philosophy
-
-<div align="center">
-
-## **Don't just learn code. Build with it.**
-
-</div>
-
-I believe the best way to become a better developer is to continuously build, make mistakes, understand why they happened, and improve.
-
-Every project is another opportunity to understand something more deeply.
-
----
-
-# 🎯 2026 Goals
-
-* [x] Learn HTML & CSS fundamentals
-* [x] Learn Flexbox & Grid
-* [x] Build responsive websites
-* [x] Start React
-* [x] Build React projects
-* [x] Learn Tailwind CSS
-* [x] Explore Next.js
-* [ ] Strengthen JavaScript
-* [ ] Master React
-* [ ] Learn backend development
-* [ ] Work with databases
-* [ ] Build complete full-stack applications
-* [ ] Deploy production-ready applications
-* [ ] Become a professional Full-Stack Developer
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-|       🔹 Area      | 🎯 Focus                      |
-| :----------------: | :---------------------------- |
-|    🟨 JavaScript   | Modern JavaScript & ES6+      |
-|      ⚛️ React      | Components, Hooks & State     |
-|      ▲ Next.js     | Full-Stack React Development  |
-|        🎨 UI       | Responsive & Clean Interfaces |
-|       🔌 APIs      | Fetching & Working With Data  |
-|     🗄️ Backend    | Server-Side Development       |
-| 🧠 Problem Solving | Programming Logic & Thinking  |
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/naweedjawad102">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mdjawaduddin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:naweedjawad102@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-📧 **[naweedjawad102@gmail.com](mailto:naweedjawad102@gmail.com)**
+<a href="https://github.com/mdjawaduddin?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 
 </div>
 
 ---
 
+# 👋 About Me
+
+I'm **Md. Jawad Uddin**, a **Full-Stack Web Developer** interested in creating modern, responsive, and user-friendly websites.
+
+I enjoy turning ideas into functional web experiences and learning through real-world projects. I'm continuously improving my development skills by building, experimenting, debugging, and trying new things.
+
+```text
+💻 Web Development     → Building modern websites
+⚛️ React               → Creating reusable interfaces
+▲ Next.js              → Building modern React applications
+🟨 JavaScript          → Programming & web logic
+🔷 TypeScript          → Writing safer, structured code
+🎨 UI Development      → Creating responsive experiences
+🧠 Problem Solving     → Finding better solutions
+🚀 Growth              → Learning something new every day
+🛠️ Tech Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript"/>
+
+<br/><br/>
+
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="React Next.js"/>
+
+<br/><br/>
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git GitHub VS Code npm"/> </div>
+🚀 What I Do
+<div align="center">
+💻 Development	🎨 Design	🧠 Growth
+Build websites	Responsive layouts	Learn continuously
+React applications	Clean interfaces	Solve problems
+Next.js projects	User-friendly UI	Improve my code
+API-based apps	Modern experiences	Build real projects
+</div>
+🔥 Featured Project
+🏋️ FitLog — Workout Library
+<div align="center">
+TRAIN WITH INTENT. LOG EVERY SET.
+</div>
+
+FitLog is a responsive workout library where users can explore exercises, view detailed workout information, create a daily workout plan, and save workouts for later.
+
+✨ Key Features
+🏋️ Workout Library — Browse workouts with images, muscle groups, duration, calories, and ratings.
+🔎 Workout Details — View complete information and instructions for each workout.
+📋 Today's Plan — Add, complete, and remove workouts from a daily plan.
+💾 Save Workouts — Save workouts for later and manage them from the Saved section.
+📱 Responsive Design — Designed for desktop, tablet, and mobile devices.
+🛠️ Built With
+<div align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Next.js React Tailwind CSS"/>
+
+<br/><br/>
+
+DaisyUI React Icons React Toastify REST API
+
+</div> <br/> <div align="center"> <a href="https://github.com/mdjawaduddin/my-assignment-6"> <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code" /> </a> <a href="https://my-assignment-6-eight.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /> </a> </div>
+📂 More Projects
+
+I'm continuously building new projects as I improve my skills.
+
+<div align="center"> <a href="https://github.com/mdjawaduddin?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" /> </a> </div> <br/>
+
+More projects will be added here as I continue building.
+
+📊 GitHub Statistics
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-readme-stats.vercel.app/api?username=mdjawaduddin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
 
-**Learning today. Building tomorrow.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjawaduddin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
+</div> <br/> <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjawaduddin&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+
+</div>
+🧠 My Development Philosophy
+<div align="center">
+Learn → Build → Break → Debug → Improve
+</div>
+
+I believe development isn't about knowing everything.
+
+It's about being willing to learn, experiment, make mistakes, understand them, and keep improving.
+
+Every project gives me an opportunity to become a better developer.
+
+📈 My Development Journey
+                HTML + CSS
+                    │
+                    ▼
+               JavaScript
+                    │
+                    ▼
+                  React
+                    │
+                    ▼
+                TypeScript
+                    │
+                    ▼
+                 Next.js
+                    │
+                    ▼
+          ┌──────────────────┐
+          │  More to Explore │
+          └──────────────────┘
+                    │
+                    ▼
+          Full-Stack Development
+                    │
+                    ▼
+          🚀 Professional Developer
+🎯 Current Goals
+[x] Learn HTML & CSS
+[x] Learn Flexbox & Grid
+[x] Build responsive websites
+[x] Learn JavaScript
+[x] Start React
+[x] Build React projects
+[x] Learn TypeScript
+[x] Explore Next.js
+[x] Build a Next.js project
+
+[ ] Strengthen JavaScript
+[ ] Deepen React knowledge
+[ ] Learn backend development
+[ ] Learn databases
+[ ] Build complete full-stack applications
+[ ] Deploy more production-ready projects
+[ ] Become a professional Full-Stack Developer
+📚 Currently Learning
+<div align="center">
+Technology	Focus
+🟨 JavaScript	Modern JavaScript & ES6+
+🔷 TypeScript	Types & structured development
+⚛️ React	Components, Hooks & State
+▲ Next.js	Modern React & full-stack development
+🎨 CSS	Responsive & modern UI
+🧠 Problem Solving	Programming logic & better solutions
+</div>
+🐍 Contribution Activity
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+📫 Let's Connect
+<div align="center"> <a href="https://github.com/mdjawaduddin"> <img src="https://img.shields.io/badge/GitHub-mdjawaduddin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:naweedjawad102@gmail.com"> <img src="https://img.shields.io/badge/Email-naweedjawad102%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+<div align="center">
+⭐ Thanks for visiting my profile!
+
+Code • Build • Improve • Repeat
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
 
-</div>
-
-<!--
-**mdjawaduddin/mdjawaduddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div> ``**
